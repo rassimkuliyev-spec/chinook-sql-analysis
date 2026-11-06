@@ -17,6 +17,20 @@ This repository showcases **four self-directed analyses** from the Gold level of
 | How does revenue change by month? | [03_monthly_revenue_trends.sql](sql/03_monthly_revenue_trends.sql) | Monthly aggregation of invoice-line revenue |
 | Which customers explore the widest range of genres? | [04_customer_genre_diversity.sql](sql/04_customer_genre_diversity.sql) | Distinct purchased genres and tracks; customer spending |
 
+## Data Visualizations
+
+### 1. Artist Genre Diversity
+![Artist Genre Diversity](chinook-artist-diversity.png)
+
+### 2. Average Basket Value by Country
+![Average Basket Value](chinook-average-basket.png)
+
+### 3. Monthly Revenue Trends
+![Monthly Revenue](chinook-monthly-revenue.png)
+
+### 4. Customer Genre Diversity
+![Customer Genre Diversity](chinook-customer-diversity.png)
+
 ## Selected findings
 
 These values are reproduced from the original coursework write-up; they have **not been independently rerun** for this repository.
