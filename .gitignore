@@ -1,0 +1,10 @@
+# Local credentials, exports, and development artifacts
+.env
+.env.*
+*.key
+*.pem
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+# Add local database exports to this ignore file before staging them.
